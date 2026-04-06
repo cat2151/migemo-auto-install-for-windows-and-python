@@ -1,0 +1,8 @@
+title: "migemo-auto-install-for-windows-and-python"
+description: "migemo-auto-install-for-windows-and-python"
+theme: jekyll-theme-slate
+github:
+  is_project_page: true
+  repository_url: https://github.com/cat2151/migemo-auto-install-for-windows-and-python
+plugins:
+  - jekyll-sitemap
